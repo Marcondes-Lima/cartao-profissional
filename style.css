@@ -63,3 +63,10 @@ body {
   color: #555;
   
 }
+
+@media (max-width:400px){
+    .profile-card {
+        width: 90%;
+        padding: 16px;
+    }
+}
